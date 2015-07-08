@@ -6,5 +6,7 @@ public class ValidatorImpl implements IValidator {
 	public boolean Validate(Company company) {
 		// TODO Auto-generated method stub
 		return true;
+		
+		batosai
 	}
 }
