@@ -11,6 +11,8 @@ namespace WindowsFormsApplication1
         [STAThread]
         static void Main()
         {
+            Console.WriteLine(@"test");
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
