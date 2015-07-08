@@ -7,5 +7,4 @@ public class ValidatorImpl implements IValidator {
 		// TODO Auto-generated method stub
 		return true;
 	}
-
 }
