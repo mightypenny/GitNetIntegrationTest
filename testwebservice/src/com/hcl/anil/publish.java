@@ -7,4 +7,8 @@ public class publish {
 		 Endpoint endpoint = Endpoint.publish("http://localhost:8080/test", new testwebserviceimpl());
 		 System.out.println(endpoint.isPublished());
 	}
+	
+	public void test2() {
+		
+	}
 }

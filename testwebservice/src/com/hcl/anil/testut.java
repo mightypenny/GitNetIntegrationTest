@@ -40,5 +40,6 @@ public class testut {
 	@Test
 	public void test() {		
 		Assert.assertEquals(_expectedResult, ClassUnderTest.add(_firstValue, _secondValue));
+		Assert.assertEquals(_expectedResult, ClassUnderTest.add(_firstValue, _secondValue));
 	}
 }

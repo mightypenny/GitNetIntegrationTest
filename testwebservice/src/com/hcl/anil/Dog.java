@@ -4,16 +4,16 @@ public class Dog implements IAnimal {
 
 	@Override
 	public String getName() { 
-		return "kimchi";
+		return "Pompei";
 	}
 
 	@Override
 	public int getAge() { 
-		return 4;
+		return 5;
 	}
 
 	@Override
 	public int getSalary() { 
-		return 0;
+		return 1;
 	}		
 }
