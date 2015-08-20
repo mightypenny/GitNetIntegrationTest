@@ -10,5 +10,10 @@ public class Dog implements IAnimal {
 	@Override
 	public int getAge() { 
 		return 4;
-	}	
+	}
+
+	@Override
+	public int getSalary() { 
+		return 0;
+	}		
 }

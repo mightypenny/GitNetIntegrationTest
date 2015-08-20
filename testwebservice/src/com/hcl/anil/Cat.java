@@ -11,5 +11,9 @@ public class Cat implements IAnimal {
 	public int getAge() { 
 		return 2;
 	}
-	
+		
+	@Override
+	public int getSalary() {
+		return 0;
+	}
 }
