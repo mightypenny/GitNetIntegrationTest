@@ -15,5 +15,8 @@ public class testwebserviceimpl implements testwebservice {
 		else {
 			return x + y;
 		}
-	}
+		
+		// richard test update on a differe
+		
+	}	
 }
