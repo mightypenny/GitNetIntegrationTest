@@ -16,4 +16,8 @@ public class Dog implements IAnimal {
 	public int getSalary() { 
 		return 1;
 	}		
+	
+	// 1st update left side only
+	// 1st update left  side only
+	// 1st update left side only
 }
