@@ -15,5 +15,9 @@ public class Dog implements IAnimal {
 	@Override
 	public int getSalary() { 
 		return 1;
-	}		
+	}
+	
+	// 1st update right side only
+	// 1st update right side only
+	// 1st update right side only		
 }
