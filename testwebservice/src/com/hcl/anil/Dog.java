@@ -20,4 +20,8 @@ public class Dog implements IAnimal {
 	// 1st update left side only
 	// 1st update left  side only
 	// 1st update left side only
+	
+	// 2nd update left side only
+	// 2nd update left  side only
+	// 2nd update left side only	
 }
