@@ -16,4 +16,8 @@ public class Cat implements IAnimal {
 	public int getSalary() {
 		return 0;
 	}
+	
+	// 1st update right side only
+	// 1st update right side only
+	// 1st update right side only
 }
