@@ -15,12 +15,5 @@ public class testwebserviceimpl implements testwebservice {
 		else {
 			return x + y;
 		}
-		
-		// richard test update on a differe
-		
-	}	
-	
-	// branch test 1 update on different file
-	// branch test 1 update on different file
-	// branch test 1 update on different file
+	}		
 }
